@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Gupta",
+        "company": "Hogo",
+        "phone": 85622342
+    },
+    {
+        "id": 3,
+        "name": "Harsh Gupta",
+        "company": "Hogo",
+        "phone": 85622342
+    },
+    {
+        "id": 2,
+        "name": "Harsh ",
+        "company": "Hogo",
+        "phone": 85622342
+    }
+            
+]
